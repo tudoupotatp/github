@@ -1,0 +1,9 @@
+git clone +¸´ÖÆµÄÍøÖ·
+cd git²Ö¿âÃû
+git pull origin master
+git add .
+git commit -m  'Ëæ±ãĞ´'
+git push origin master
+
+
+C:\Users\yezhiyuan\
